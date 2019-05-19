@@ -1,5 +1,7 @@
 package com.kp.security.entities;
 
+import org.springframework.web.bind.annotation.ModelAttribute;
+
 import java.util.Set;
 
 import javax.persistence.Entity;
